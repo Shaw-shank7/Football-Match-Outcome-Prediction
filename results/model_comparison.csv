@@ -1,5 +1,0 @@
-Rank,Model,Accuracy,F1 Score,Weighted Precision,Weighted Recall
-1,Logistic Regression,0.6778,0.6537,0.6545,0.6778
-2,Random Forest,0.6648,0.62,0.6389,0.6648
-3,Decision Tree,0.6535,0.628,0.6237,0.6535
-4,SVM (One-vs-Rest),0.6502,0.5576,0.4882,0.6502
