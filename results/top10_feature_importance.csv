@@ -1,0 +1,11 @@
+Rank,Feature,Importance
+1,HTHG,0.2104
+2,HTAG,0.1673
+3,TargetShotDifference,0.1643
+4,ShotAccuracyDifference,0.1028
+5,AST,0.0721
+6,HST,0.056
+7,HomeShotAccuracy,0.0452
+8,AwayShotAccuracy,0.0278
+9,PressureDifference,0.0181
+10,ShotDifference,0.018
